@@ -1,0 +1,8 @@
+{
+  "name": "vancorvid",
+  "version": "1.0.0",
+  "private": true,
+  "repository": "git@github.com:Continuities/vancorvid.git",
+  "author": "Michael Townsend <michael@doublespeakgames.com>",
+  "license": "MIT"
+}
